@@ -1,1 +1,2 @@
 # data structure
+vscode默认在当前目录下产生.exe可执行文件，所以配置了task让可执行文件产生在子目录bin下
